@@ -1,4 +1,3 @@
-![TPLLBA]
 
 ## Getting Started
 Before you can begin working with TPLLBA on iOS, you need to download the TPLLBA SDK for iOS.
