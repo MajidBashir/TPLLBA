@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TPLLBA"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Location based ads by TPLMaps Ltd."
 
   # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
                    A product of TPLMaps Ltd. Provide ads according to user location. Using TPLLBA an app can capture the desire audience and business will be expanded.
-		DESC
+
   s.homepage     = "https://github.com/anumshk27/TPLLBA"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
@@ -102,7 +102,7 @@ SOFTWARE.
 
   s.platform = :ios, '9.0'
   s.ios.deployment_target = '9.0'
-  s.source       = { :git => "https://github.com/anumshk27/TPLLBA.git", :tag => '0.0.2' }
+  s.source       = { :git => "https://github.com/anumshk27/TPLLBA.git", :tag => '0.0.3' }
   s.ios.vendored_frameworks = 'TPLLBA.framework'
   #s.resource = 'TPLMaps/TPLMaps.bundle'
   s.ios.framework    = 'UIKit', 'CoreLocation', 'SystemConfiguration', 'CFNetwork'
@@ -157,7 +157,7 @@ SOFTWARE.
   #  where they will only apply to your library. If you depend on other Podspecs
   #  you can include multiple dependencies to ensure it works.
 
-  s.requires_arc = false
+  s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
