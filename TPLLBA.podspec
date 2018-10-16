@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                   A product of TPLMaps Ltd. Provide ads according to user location. Using TPLLBA an app can capture the desire audience and business will be expanded.
-DESC
+                   A product of TPLMaps Ltd. Provide ads according to user location. Using TPLLBA an app can capture the desire audience and business will be expanded. 
+			DESC
 
   s.homepage     = "https://github.com/anumshk27/TPLLBA"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -76,8 +76,8 @@ SOFTWARE.
 
   s.author             = { "TPLMaps" => "tplmaps.dev@gmail.com" }
   # Or just: s.author    = "m_ubaid_77"
-  # s.authors            = { "m_ubaid_77" => "m.ubaid.77@gmail.com" }
-  # s.social_media_url   = "http://twitter.com/m_ubaid_77"
+  # s.authors            = { "muhammad.ubaid" => "muhammad.ubaid@tplmaps.com" }
+  # s.social_media_url   = "http://twitter.com/muhammad.ubaid"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
