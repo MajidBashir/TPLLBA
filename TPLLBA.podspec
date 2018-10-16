@@ -17,6 +17,6 @@ A product of TPLMaps Ltd. Provide ads according to user location. Using TPLLBA a
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'TPLLBA/LBAds'
+  s.source_files = 'TPLLBA/**/*.{h,m,swift}'
   
 end
