@@ -26,6 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
                    A product of TPLMaps Ltd. Provide ads according to user location. Using TPLLBA an app can capture the desire audience and business will be expanded.
+DESC
 
   s.homepage     = "https://github.com/anumshk27/TPLLBA"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
