@@ -103,7 +103,7 @@ SOFTWARE.
 
   s.platform = :ios, '9.0'
   s.ios.deployment_target = '9.0'
-  s.source       = { :git => "https://github.com/anumshk27/TPLLBA.git", :tag => '1.0.4' }
+  s.source       = { :git => "https://github.com/anumshk27/TPLLBA.git", :tag => '1.0.6' }
   s.ios.vendored_frameworks = 'TPLLBA.framework'
   #s.resource = 'TPLMaps/TPLMaps.bundle'
   s.ios.framework    = 'UIKit', 'CoreLocation', 'SystemConfiguration', 'CFNetwork'
