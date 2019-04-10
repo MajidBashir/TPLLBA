@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TPLLBA"
-  s.version      = "1.0.7"
+  s.version      = "1.0.8"
   s.summary      = "Location based Ads by TPLMaps Ltd."
 
   # This description is used to generate tags and improve search results.
@@ -103,7 +103,7 @@ SOFTWARE.
 
   s.platform = :ios, '9.0'
   s.ios.deployment_target = '9.0'
-  s.source       = { :git => "https://github.com/anumshk27/TPLLBA.git", :tag => '1.0.7' }
+  s.source       = { :git => "https://github.com/anumshk27/TPLLBA.git", :tag => '1.0.8' }
   s.ios.vendored_frameworks = 'TPLLBA.framework'
   #s.resource = 'TPLMaps/TPLMaps.bundle'
   s.ios.framework    = 'UIKit', 'CoreLocation', 'SystemConfiguration', 'CFNetwork'
