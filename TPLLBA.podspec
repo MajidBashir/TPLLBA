@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "TPLLBA"
   s.version      = "1.0.4"
-  s.summary      = "Location based ads by TPLMaps Ltd."
+  s.summary      = "Location based Ads by TPLMaps Ltd."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
